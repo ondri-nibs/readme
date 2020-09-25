@@ -70,3 +70,9 @@ have harmonized looking documents.
 
 Coming soon\! A repository for the integrated ONDRI standards (Shiny)
 app.
+
+# And more\!
+
+This organization page will also include apps and packages for data
+preparation, and outlier detection, amongst other things as they are
+developed.
