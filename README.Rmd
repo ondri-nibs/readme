@@ -48,7 +48,7 @@ This [repository](https://github.com/ondri-nibs/ondridown) houses a lightweight 
 
 <br><br>
 
-# standards_app <img src='etc/standards_app_hex.png' align="right" height="139"/>
+# Standards (Shiny) App <img src='etc/standards_app_hex.png' align="right" height="139"/>
 
 
 Coming soon! A repository for the integrated ONDRI standards (Shiny) app. 

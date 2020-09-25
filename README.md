@@ -56,7 +56,7 @@ have harmonized looking documents.
 
 <br><br>
 
-# standards\_app <img src='etc/standards_app_hex.png' align="right" height="139"/>
+# Standards (Shiny) App <img src='etc/standards_app_hex.png' align="right" height="139"/>
 
 Coming soon\! A repository for the integrated ONDRI standards (Shiny)
 app.
