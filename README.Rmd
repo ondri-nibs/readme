@@ -13,6 +13,14 @@ The `ondri-nibs` page is an organization page for the Ontario Neurodegenerative 
 
 Generally, this organization page has multiple repositories, each repository contains a unique item (e.g., Shiny apps, packages) or conceptual content (e.g., documentation). This page will provide links to each of those as the project grows and changes.
 
+To note, all materials here are licensed as follows unless otherwise stated:
+
+* GPL-3 for software
+
+* CC-BY for documentation
+
+If you use or adapt any materials here, please ensure you correctly do so according to their licenses and with full attribution. 
+
 
 # contributors <img src='etc/contributors_hex.png' align="right" height="139"/>
 
