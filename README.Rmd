@@ -40,12 +40,13 @@ This [repository](https://github.com/ondri-nibs/toy_data) provides two "toy" dat
 
 This [repository](https://github.com/ondri-nibs/ondricolors) houses a lightweight `R` package designed with one purpose: to provide a color palette package with the official ONDRI colors.
 
+<br><br>
 
 # ondricolors <img src='etc/ondridown_hex.png' align="right" height="139"/>
 
 This [repository](https://github.com/ondri-nibs/ondridown) houses a lightweight package to provide an `RMarkdown` template so that we can have harmonized looking documents.
 
-
+<br><br>
 
 # standards_app <img src='etc/standards_app_hex.png' align="right" height="139"/>
 
