@@ -48,7 +48,7 @@ palette package with the official ONDRI colors.
 
 <br><br>
 
-# ondricolors <img src='etc/ondridown_hex.png' align="right" height="139"/>
+# ondridown <img src='etc/ondridown_hex.png' align="right" height="139"/>
 
 This [repository](https://github.com/ondri-nibs/ondridown) houses a
 lightweight package to provide an `RMarkdown` template so that we can
