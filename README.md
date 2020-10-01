@@ -1,9 +1,20 @@
-An overview of the ondri-nibs organization
-================
+
+# <img src='etc/ONDRIlogo.png' align="right" height="120"/>
+
+The Ontario Neurodegenerative Disease Research Initiative (ONDRI) is a
+prospective, observational, and longitudinal study of neurodegenerative
+and cerebrovascular diseases. See an overview of the study at baseline
+see [this
+preprint](https://www.medrxiv.org/content/10.1101/2020.07.30.20165456v1.full).
+For more general information on the project, visit
+[ondri.ca](https://ondri.ca/), and follow the study on Twitter:
+[@ONDRISTUDY](https://twitter.com/ONDRISTUDY/).
+
+<br><br>
 
 # ondri-nibs <img src='etc/ondrinibs_hex.png' align="right" height="139"/>
 
-The `ondri-nibs` page is an organization page for the Ontario
+The `ondri-nibs` page is a github organization page for the Ontario
 Neurodegenerative Disease Research Initiative’s (ONDRI) Neuroinformatics
 & Biostatistics (NIBS) team to house materials for public (and internal)
 consumption.
