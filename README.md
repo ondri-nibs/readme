@@ -3,7 +3,7 @@
 
 The Ontario Neurodegenerative Disease Research Initiative (ONDRI) is a
 prospective, observational, and longitudinal study of neurodegenerative
-and cerebrovascular diseases. See an overview of the study at baseline
+and cerebrovascular diseases. For an overview of the study at baseline
 see [this
 preprint](https://www.medrxiv.org/content/10.1101/2020.07.30.20165456v1.full).
 For more general information on the project, visit
