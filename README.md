@@ -72,6 +72,19 @@ This [repository](https://github.com/ondri-nibs/standards_app) houses a
 heavy-duty app to check data standards for ONDRI and related projects,
 as well as custom projects and basic data checks.
 
+<br><br>
+
+# Data preparation (Shiny) App <img src='etc/dataprep_app_logo.png' align="right" height="139"/>
+
+This [repository](https://github.com/ondri-nibs/dataprep_app) houses an
+app meant primarily for some fundamental but rudimentary data inspection
+and preparation. This app is meant for use with ONDRI data and, in
+particular, as the step between the standards checks and the outlier
+analyses (though this app can be used for inspection and preparation for
+other analyses).
+
+<br><br>
+
 # And more\!
 
 This organization page will also include apps and packages for data
