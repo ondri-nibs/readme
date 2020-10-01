@@ -59,7 +59,7 @@ This [repository](https://github.com/ondri-nibs/ondridown) houses a lightweight 
 # Standards (Shiny) App <img src='etc/standards_app_hex.png' align="right" height="139"/>
 
 
-Coming soon! A repository for the integrated ONDRI standards (Shiny) app. 
+This [repository](https://github.com/ondri-nibs/standards_app) houses a heavy-duty app to check data standards for ONDRI and related projects, as well as custom projects and basic data checks.
 
 
 # And more!
