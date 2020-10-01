@@ -96,6 +96,23 @@ other analyses).
 
 <br><br>
 
+# External materials
+
+Some of the packages and utilities here depend on materials found
+elsewhere. In most cases these are utilities generally found (e.g.,
+tidyverse). Some specific materials that are necessary for much of the
+NIBS pipelines are found at [Derek’s github
+page](https://github.com/derekbeaton/) and include:
+
+  - The [Outliers and Robust Structures
+    (OuRS)](https://github.com/derekbeaton/OuRS) package
+
+  - The [Generalized singular value
+    decomposition](https://github.com/derekbeaton/GSVD) package
+
+  - The [Generalized partial least
+    squares](https://github.com/derekbeaton/GPLS) package
+
 # And more\!
 
 This organization page will also include apps and packages for data
