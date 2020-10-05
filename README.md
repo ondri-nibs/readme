@@ -96,6 +96,16 @@ other analyses).
 
 <br><br>
 
+# Data preparation (Shiny) App <img src='etc/outliers_app_logo.png' align="right" height="139"/>
+
+This [repository](https://github.com/ondri-nibs/outliers_app) houses an
+app meant primarily for implementation of the ONDRI outliers detection
+pipeline. In short, it provides visualization and report generation
+based on the techniques found in the [Outliers and Robust Structures
+(OuRS)](https://github.com/derekbeaton/OuRS) package.
+
+<br><br>
+
 # External materials
 
 Some of the packages and utilities here depend on materials found
@@ -115,6 +125,5 @@ page](https://github.com/derekbeaton/) and include:
 
 # And more\!
 
-This organization page will also include apps and packages for data
-preparation, and outlier detection, amongst other things as they are
-developed.
+This organization page will also include apps and packages for other
+tools as they are developed.
