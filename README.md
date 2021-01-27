@@ -27,9 +27,9 @@ to each of those as the project grows and changes.
 To note, all materials here are licensed as follows unless otherwise
 stated:
 
-  - GPL-3 for software
+-   GPL-3 for software
 
-  - CC-BY for documentation
+-   CC-BY for documentation
 
 If you use or adapt any materials here, please ensure you correctly do
 so according to their licenses and with full attribution.
@@ -54,10 +54,10 @@ for all the external facing (and some internally useful) documentation.
 This [repository](https://github.com/ondri-nibs/toy_data) provides two
 “toy” data sets. These data sets help illustrate a few things:
 
-  - Each one shows how a tabular and non-tabular data set would be
+-   Each one shows how a tabular and non-tabular data set would be
     constructed
 
-  - The data are synthetic, and also provide an illustrative data set
+-   The data are synthetic, and also provide an illustrative data set
     for use with all of the apps and methods here (e.g., standards, data
     preparation, outlier detection)
 
@@ -96,7 +96,7 @@ other analyses).
 
 <br><br>
 
-# Data preparation (Shiny) App <img src='etc/outliers_app_logo.png' align="right" height="139"/>
+# Outlier analyses (Shiny) App <img src='etc/outliers_app_logo.png' align="right" height="139"/>
 
 This [repository](https://github.com/ondri-nibs/outliers_app) houses an
 app meant primarily for implementation of the ONDRI outliers detection
@@ -114,16 +114,16 @@ tidyverse). Some specific materials that are necessary for much of the
 NIBS pipelines are found at [Derek’s github
 page](https://github.com/derekbeaton/) and include:
 
-  - The [Outliers and Robust Structures
+-   The [Outliers and Robust Structures
     (OuRS)](https://github.com/derekbeaton/OuRS) package
 
-  - The [Generalized singular value
+-   The [Generalized singular value
     decomposition](https://github.com/derekbeaton/GSVD) package
 
-  - The [Generalized partial least
+-   The [Generalized partial least
     squares](https://github.com/derekbeaton/GPLS) package
 
-# And more\!
+# And more!
 
 This organization page will also include apps and packages for other
 tools as they are developed.
