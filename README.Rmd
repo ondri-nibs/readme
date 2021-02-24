@@ -49,6 +49,19 @@ This [repository](https://github.com/ondri-nibs/toy_data) provides two "toy" dat
 * The data are synthetic, and also provide an illustrative data set for use with all of the apps and methods here (e.g., standards, data preparation, outlier detection)
 
 
+# ONDRI data.frames <img src='etc/ONDRIdf.png' align="right" height="139"/>
+
+This [repository](https://github.com/ondri-nibs/ONDRIdf) is a simple package with one primary function `ONDRI_df()`. Its goal is to read in a `DATA.csv` and `DICT.csv` that are part of the ONDRI data packages, and automatically handle some of the specifics about our data packages. That includes:  
+
+* Recoding and preserving the different missing data, as defined in the ONDRI standards. 
+
+* Include information from the dictionary---such as `DATA_TYPES`---as part of a `data.frame`. 
+
+* Some printing utilities to help see ONDRI's data types and ONDRI's missing coded data in the data packages
+
+* Some simple subsetting functions based on data types. 
+
+
 # ondricolors <img src='etc/ondricolors.png' align="right" height="139"/>
 
 This [repository](https://github.com/ondri-nibs/ondricolors) houses a lightweight `R` package designed with one purpose: to provide a color palette package with the official ONDRI colors.
