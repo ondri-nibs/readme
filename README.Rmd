@@ -74,6 +74,13 @@ This [repository](https://github.com/ondri-nibs/ondridown) houses a lightweight 
 
 <br><br>
 
+# Standards R package <img src='etc/ondri_standards_logo.png' align="right" height="139"/>
+
+
+This [repository](https://github.com/ondri-nibs/standards_package) houses an R package that emphasizes *structural* data checks, primarily formatting, filenames, valid MISSING codes, checks for complete data packages (e.g., DATA, DICT, README). This R package does not perform project-specific checks (e.g., for valid participants or date ranges). Please see the Standards App for (some) of those specifics.
+
+<br><br>
+
 # Standards (Shiny) App <img src='etc/standards_app_hex.png' align="right" height="139"/>
 
 
