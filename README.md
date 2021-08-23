@@ -60,6 +60,8 @@ This [repository](https://github.com/ondri-nibs/toy_data) provides two
 -   The data are synthetic, and also provide an illustrative data set
     for use with all of the apps and methods here (e.g., standards, data
     preparation, outlier detection)
+    
+-   See also [this video](https://www.youtube.com/watch?v=2UK6dROXyn8) for an explanation of the standards we implemented for the data
 
 # ONDRI data.frames <img src='etc/ONDRIdf.png' align="right" height="139"/>
 
